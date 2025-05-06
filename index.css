@@ -1,0 +1,35 @@
+body {
+    background-color: #000 !important;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+  }
+  
+
+#hero {
+    background: linear-gradient(145deg, #000000, #000000);
+    color: #fff;
+  }
+  
+  
+  .card:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+ 
+  .card {
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.05);
+    border: none;
+  }
+  
+
+  footer {
+    background-color: #111;
+    border-top: 1px solid #444;
+  }
+  
+
+
+
+
